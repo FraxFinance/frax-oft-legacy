@@ -18,6 +18,14 @@
 
 ## 1) Developing Contracts
 
+```
+carter@laptop:~/Documents/frax/frax-oft-legacy$ npx hardhat lz:deploy --tags OFTS
+
+carter@laptop:~/Documents/frax/frax-oft-legacy$ npx hardhat lz:oapp:wire --oapp-config layerzero-fraxeth.config.ts 
+
+carter@laptop:~/Documents/frax/frax-oft-legacy$ npx hardhat lz:ownable:transfer-ownership --oapp-config layerzero-fraxeth.config.ts 
+```
+
 #### Installing dependencies
 
 We recommend using `pnpm` as a package manager (but you can of course use a package manager of your choice):

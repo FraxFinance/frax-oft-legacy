@@ -1,0 +1,6 @@
+export const MULTISIGS: Record<string, string> = {
+    ethereum: '0xB1748C79709f4Ba2Dd82834B8c82D4a505003f27',
+    blast: '0x33A133020b2C2CD41a24F74033B11EC2fC0bF97a',
+    base: '0xCBfd4Ef00a8cf91Fd1e1Fe97dC05910772c15E53',
+    metis: '0xF4A4F32732F9B2fB84Ee28c58616946F3bF80F7d',
+}

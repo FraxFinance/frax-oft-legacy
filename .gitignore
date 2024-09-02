@@ -6,11 +6,6 @@ typechain
 typechain-types
 
 # Hardhat files
-cache
-artifacts
-
-#foundry test compilation files
-out
 
 # pnpm
 pnpm-error.log

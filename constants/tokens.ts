@@ -50,9 +50,9 @@ export const TOKENS: TokensMap = {
         symbol: 'frxETH',
     },
     // FPI on Ethereum
-    // https://etherscan.io/token/0x853d955acef822db058eb8505911ed77f175b99e
+    // https://etherscan.io/token/0x5Ca135cB8527d76e932f34B5145575F9d8cbE08E
     FPI: {
-        address: '0x853d955aCEf822Db058eb8505911ED77F175b99e',
+        address: '0x5Ca135cB8527d76e932f34B5145575F9d8cbE08E',
         name: 'Frax Price Index',
         symbol: 'FPI',
     },

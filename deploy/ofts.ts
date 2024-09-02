@@ -20,8 +20,8 @@ deploy.dependencies = [
     // 'StakedFraxEtherOFTAdapter',
     // 'FraxOFT',
     // 'FraxOFTAdapter',
-    'FraxEtherOFT',
-    'FraxEtherOFTAdapter',
+    // 'FraxEtherOFT',
+    // 'FraxEtherOFTAdapter',
     'FraxPriceIndexOFT',
     'FraxPriceIndexOFTAdapter'
 ]
